@@ -1,14 +1,14 @@
 {
   "name": "Hugo Demo Site",
   "short_name": "Hugo Demo Site",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/hugo-demo-page/",
+  "scope": "/hugo-demo-page/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/hugo-demo-page/favicon.svg",
       "sizes": "512x512"
     }
   ]

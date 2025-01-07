@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://matsusato4.github.io/section/hello1/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/section/hello1/</loc>
     <lastmod>2025-01-08T01:33:56+09:00</lastmod>
   </url><url>
-    <loc>https://matsusato4.github.io/section/hello2/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/section/hello2/</loc>
     <lastmod>2025-01-08T01:33:56+09:00</lastmod>
   </url><url>
-    <loc>https://matsusato4.github.io/section/hello3/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/section/hello3/</loc>
     <lastmod>2025-01-08T01:33:56+09:00</lastmod>
   </url><url>
-    <loc>https://matsusato4.github.io/section/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/section/</loc>
     <lastmod>2025-01-08T01:30:07+09:00</lastmod>
   </url><url>
-    <loc>https://matsusato4.github.io/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/</loc>
     <lastmod>2025-01-08T01:30:07+09:00</lastmod>
   </url><url>
-    <loc>https://matsusato4.github.io/categories/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/categories/</loc>
   </url><url>
-    <loc>https://matsusato4.github.io/tags/</loc>
+    <loc>https://matsusato4.github.io/hugo-demo-page/tags/</loc>
   </url>
 </urlset>
